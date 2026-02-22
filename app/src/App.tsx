@@ -96,11 +96,7 @@ const SECCIONES = [
 ];
 
 function App() {
-  console.log("SUPABASE URL:", import.meta.env.VITE_SUPABASE_URL)
-  console.log("ENV COMPLETO:", import.meta.env)
-  alert("APP CARGADA EN PRODUCCIÓN");
-
-  console.log("ENV:", import.meta.env);
+  
   // Estado de la pestaña activa
   const [pestanaActiva, setPestanaActiva] = useState('overview');
   
