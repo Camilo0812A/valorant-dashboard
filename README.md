@@ -2,6 +2,8 @@
 
 Dashboard personalizado para mejorar en Valorant, con seguimiento de estadísticas, plan de entrenamiento, análisis mental y más.
 
+**Nota:** este proyecto lo hice con IA, lo arme para llevar mis estadisticas y mejorar jugando Valorant.
+
 ![Dashboard Preview](https://via.placeholder.com/800x400/0a0a0a/06B6D4?text=Valorant+Dashboard)
 
 ## Características
