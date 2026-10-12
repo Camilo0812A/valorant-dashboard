@@ -4,7 +4,11 @@ Dashboard personalizado para mejorar en Valorant, con seguimiento de estadístic
 
 **Nota:** este proyecto lo hice con IA, lo arme para llevar mis estadisticas y mejorar jugando Valorant.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/0a0a0a/06B6D4?text=Valorant+Dashboard)
+![Vista del dashboard](docs/captura.png)
+
+*La captura usa partidas de ejemplo.*
+
+**Demo en vivo, sin instalar nada:** https://valorant-dashboard-2-hub.vercel.app
 
 ## Características
 
